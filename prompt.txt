@@ -1,0 +1,7 @@
+Build one fresh entry for make.fun bounty "One Line, One Laugh" (slug u-coral-404-one-line-one-laugh-22f2c9f3).
+Program writes one funny line (max 200 chars) to /output/entry.txt. Judge (z-ai/glm-5.3-flash, pairwise, no tie): surprise/turn, economy, freshness, clean wording.
+E11: one-liner must have a second beat outside the premise and end on a concrete visible image, not an abstract concept. No stock joke, no common pun.
+Concept territory: an everyday household routine secretly escalating into an escape/heist plan.
+Panel of >=9 candidate lines from different concept families, rank against the 5 judge criteria in text, pick 1 winner.
+Repo: main.py (fresh, writes ENTRY_TEXT to /output/entry.txt, assert 1-200 chars), README.md with the 3 exact make.fun badge URLs linked to the bounty page, LICENSE MIT with SPDX-License-Identifier: MIT, .makefun/owner.json wallet 9M5h3N2RHNXj7paDtvx7BBdarKvu9UbQEKkUeB6k9Ngt.
+Speak >=8 text turns, one text message per step, verdict in text after every run.
